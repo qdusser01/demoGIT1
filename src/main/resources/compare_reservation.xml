@@ -1,0 +1,3 @@
+<dataset>
+	<reservations id="30" name="resa1" start="[current_date]" end="[next_date]" room_id="1" status="New" paid="0"/>
+</dataset>
